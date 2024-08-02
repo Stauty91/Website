@@ -57,4 +57,4 @@ $tabBtn.forEach(item => {
         lastActiveTabBtn = this;
 
     });
-});
+}); 
